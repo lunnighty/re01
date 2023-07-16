@@ -1,0 +1,2 @@
+git config username lunnighty
+git config usereamil zhangao6356@outlook.com 
